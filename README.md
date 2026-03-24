@@ -1,2 +1,2 @@
 # Fireworks-Web
-Web version for https://github.com/JeffLiu7-hi/Fireworks
+Web version for [Fireworks](https://github.com/JeffLiu7-hi/Fireworks)
